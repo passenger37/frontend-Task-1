@@ -1,0 +1,18 @@
+.dasboard{
+    margin-top:50px;
+    padding :15px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center            ;
+}
+
+.task{
+    padding: 5px;
+}
+
+.saveschedule{
+    background-color: #2196F3;
+    border-radius: 5px;
+    height: 30px;
+    border-color: #2196F3;
+}
